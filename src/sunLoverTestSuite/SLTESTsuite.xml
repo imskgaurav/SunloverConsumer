@@ -1,0 +1,20 @@
+<suite name="SLConsRegressionTest" parallel="false">
+
+	<test name="Smoke Test">
+	    <classes>
+	       <class name="sunLoverTestCases.LaunchSunloverCons"/>
+	    </classes>
+  	</test>
+  		
+	  <test name="Regression Test1">
+	    <classes>
+	   
+ 	<!--<class name="sunLoverTestCases.LaunchSunloverCons"/>-->
+   		  
+   		   <!--  -class name="sunLoverTestCases.SLConCarHireBookingTC"/>-->
+ 	      	  <!--  <class name="sunLoverTestCases.SLConFreeNight_RateVerification"/> -->
+ 	      	<!-- <class name="sunLoverTestCases.SLConFreeNight_RateVerification"/>-->
+ 	      <!-- 	<class name="sunLoverTestCases.SLConFreeNightBookingTC"/> -->
+	    </classes>
+  </test> </suite>
+  

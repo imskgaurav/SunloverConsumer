@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SLConsRegressionTest" duration-ms="94" started-at="2016-02-16T16:10:25Z" finished-at="2016-02-16T16:10:25Z">
+    <groups>
+    </groups>
+    <test name="Smoke Test" duration-ms="31" started-at="2016-02-16T16:10:25Z" finished-at="2016-02-16T16:10:25Z">
+    </test> <!-- Smoke Test -->
+    <test name="Regression Test1" duration-ms="0" started-at="2016-02-16T16:10:25Z" finished-at="2016-02-16T16:10:25Z">
+      <class name="sunLoverTestCases.LaunchSunloverCons">
+        <test-method status="PASS" signature="launchUrl()[pri:0, instance:sunLoverTestCases.LaunchSunloverCons@36b98809]" name="launchUrl" is-config="true" duration-ms="38097" started-at="2016-02-16T21:39:47Z" finished-at="2016-02-16T21:40:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchUrl -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:sunLoverTestCases.LaunchSunloverCons@36b98809]" name="tearDown" is-config="true" duration-ms="1060" started-at="2016-02-16T21:40:25Z" finished-at="2016-02-16T21:40:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- sunLoverTestCases.LaunchSunloverCons -->
+    </test> <!-- Regression Test1 -->
+  </suite> <!-- SLConsRegressionTest -->
+</testng-results>
